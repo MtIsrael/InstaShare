@@ -6,5 +6,10 @@ The goal i achived is completing the FRONT END of the site using javascript to b
 The goal i achieved in completing the BACK END of the site is creating an API and REACT Query to be able to retrieve and store data from my client side(FRONT END) to my MySQL database. This includes using MySQL Workbench to manage and organize the data based on attributes such as post id, user id, comment id, etc to be able to keep a live feed of data on the site without needing to refresh the page. This also gave functionatlity to the front end functions such as liking posts, creating posts, adding comments to a post, and updating user profile info.
 
 This is dummy account on the home page with my own posts!
-![Screenshot 2023-07-14 130759](https://github.com/MtIsrael/InstaShare/assets/58897237/364fa369-1905-4564-bf32-8f1d26aebd43)
+
+Here is a short demonstration. 
+
+https://github.com/MtIsrael/InstaShare/assets/58897237/47c740d2-c22f-4e0e-bc02-74b04c796232
+
+
 
