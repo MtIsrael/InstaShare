@@ -9,7 +9,11 @@ This is dummy account on the home page with my own posts!
 
 Here is a short demonstration. 
 
-https://github.com/MtIsrael/InstaShare/assets/58897237/47c740d2-c22f-4e0e-bc02-74b04c796232
+
+
+https://github.com/MtIsrael/InstaShare/assets/58897237/e30cc481-be7e-4ef3-a22f-50c62242ca44
+
+
 
 
 
